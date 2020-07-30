@@ -38,12 +38,6 @@
 					<artifactId>junit-vintage-engine</artifactId>
 				</exclusion>
 			</exclusions>
-		</dependency>
- 		
-		<dependency>
-			<groupId>ai.paris.location</groupId>
-			<artifactId>paris-ai-location</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
 		</dependency>	
 	</dependencies>
 
